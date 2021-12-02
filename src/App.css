@@ -1,0 +1,26 @@
+.cards {
+    background-color: rgb(228, 228, 228);
+    height: 250px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.title {
+    display: block;
+}
+
+.name {
+    display: block;
+    margin-top: 10px;
+}
+
+.button {
+    text-decoration: none;
+}
+
+figure {
+    margin: 0 !important;
+}
